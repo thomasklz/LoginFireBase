@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "app-login-4cbe4": {
+      "hosting": {
+        "app": [
+          "app-login-4cbe4"
+        ]
+      }
+    }
+  }
+}

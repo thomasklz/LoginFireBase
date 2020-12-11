@@ -1,0 +1,24 @@
+.centrado{
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+
+   
+}
+ion-input{
+    --background: red;
+    --color: white;
+    --placeholder-color:white;
+    
+}
+
+ion-button{
+    --background-hover: yellow;
+    --color: white;
+    --border-color: black;
+    --border-width:5px;
+    --border-style:solid;
+
+}
